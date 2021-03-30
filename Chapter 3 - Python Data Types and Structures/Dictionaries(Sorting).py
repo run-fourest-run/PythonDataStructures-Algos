@@ -21,6 +21,10 @@ Sorting Dictionaries:
 
 If we want to do a simple sort on either keys or values of a dictionary we can use the following:
 
+
+*  The key argument has nothing to do with the dictionary keys, but rather is a way of passing a function to the sort algorithm to determine the sort order
+
+
 '''
 
 #Returns ['Alexander', 'Anthony', 'Brandon', 'Joeseph']
